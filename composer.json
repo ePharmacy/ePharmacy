@@ -1,0 +1,13 @@
+{
+    "name": "user/e-pharmacy",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "ePharmacy",
+            "email": "tahirovichado@gmail.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3"
+    }
+}
